@@ -25,7 +25,7 @@
 |------|--------------|
 | 🐍 Lenguajes | Python&nbsp;· SQL |
 | 🤖 ML&nbsp;/&nbsp;DL | PyTorch · TensorFlow · scikit‑learn |
-| 📊 Data | Pandas · Spark · MySQL · Teradata |
+| 📊 Data | Pandas · Spark · MySQL  |
 | 🚀 DevOps | Docker · Kubernetes · AWS · MLflow |
 </details>
 
