@@ -1,13 +1,12 @@
 
-
 <!-- ===== LinkedIn-style banner ===== -->
 <div align="center">
 
-<!-- OPCIÓN 1: URL con parámetro de caché -->
-<img src="https://raw.githubusercontent.com/Jeysshon/Jeysshon/main/CNN.png?v=2" alt="Neural-network banner" width="75%">
+<!-- URL CORREGIDA con el username correcto -->
+<img src="https://raw.githubusercontent.com/Jeysshonb/Jeysshonb/main/CNN.png" alt="Neural-network banner" width="75%">
 
-<!-- OPCIÓN 2: URL alternativa (respaldo) -->
-<!-- <img src="https://github.com/Jeysshon/Jeysshon/blob/main/CNN.png?raw=true&cache=bust" alt="Neural-network banner" width="75%"> -->
+<!-- URL alternativa (respaldo) -->
+<!-- <img src="https://github.com/Jeysshonb/Jeysshonb/blob/main/CNN.png?raw=true" alt="Neural-network banner" width="75%"> -->
 
 </div>
 
@@ -50,14 +49,8 @@
 
 <div align="center">
 
-![Jeysshon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeysshon&show_icons=true&theme=github_dark&hide_title=true)
+<!-- TAMBIÉN corregir el username aquí -->
+![Jeysshon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeysshonb&show_icons=true&theme=github_dark&hide_title=true)
 
 </div>
 
----
-
-### 🧠 Neural Network Visualization
-
-<div align="center">
-<em>The banner above represents a Convolutional Neural Network architecture - the foundation of modern computer vision and the backbone of my healthcare AI projects.</em>
-</div>
