@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="380" viewBox="0 0 900 380">
+  <defs>
+    <linearGradient id="fade-left" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="8%" stop-color="white" stop-opacity="1"/>
+      <stop offset="92%" stop-color="white" stop-opacity="1"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade-top" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="white" stop-opacity="0"/>
+      <stop offset="8%" stop-color="white" stop-opacity="1"/>
+      <stop offset="92%" stop-color="white" stop-opacity="1"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="fade-mask">
+      <rect x="0" y="0" width="900" height="380" fill="url(#fade-left)"/>
+      <rect x="0" y="0" width="900" height="380" fill="url(#fade-top)" style="mix-blend-mode: multiply;"/>
+    </mask>
+    <clipPath id="rounded">
+      <rect x="50" y="15" width="800" height="350" rx="25" ry="25"/>
+    </clipPath>
+  </defs>
+  <rect width="900" height="380" fill="#0d1117"/>
+  <image x="50" y="15" width="800" height="350" href="https://raw.githubusercontent.com/Jeysshonb/Jeysshonb/main/CNN.png" clip-path="url(#rounded)" mask="url(#fade-mask)" preserveAspectRatio="xMidYMid slice"/>
+</svg>
